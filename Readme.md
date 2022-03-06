@@ -1,0 +1,1 @@
+Chromium plugin to make web pages background-color gray
